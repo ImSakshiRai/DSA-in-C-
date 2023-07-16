@@ -5,7 +5,7 @@ using namespace std;
 
     int arr[5];
 
-    cout<< " enter the elements you want" << endl;
+    cout<< " enter mdkm the elements you want" << endl;
 
 //  input from user to array
     for (int i=0; i < 5; i++){
